@@ -1,4 +1,4 @@
-## 🛒 **11 Microservices E-Commerce Application on AWS EKS**
+## 🛒 **End to end deployement of 11 Microservices E-Commerce Application on AWS EKS**
 
 ### Overview
 
