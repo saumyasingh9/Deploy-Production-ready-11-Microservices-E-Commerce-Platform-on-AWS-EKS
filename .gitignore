@@ -19,4 +19,4 @@ pkg/
 *.tfvars
 release/wi-kubernetes-manifests.yaml
 *.github
-// to store large files 
+
