@@ -1,4 +1,5 @@
 ## 🛒 **End to end deployement of 11 Microservices E-Commerce Application on AWS EKS**
+Read my Project Blog here https://saumyasingh.hashnode.dev/deploying-a-full-microservices-e-commerce-application-on-aws-eks
 
 ### Overview
 
